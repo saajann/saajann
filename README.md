@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Saajan!
 
 🎓 **Computer Engineering Student** with a passion for **Artificial Intelligence** and **programming**.
 
