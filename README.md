@@ -6,6 +6,6 @@
 
 🚀 **Projects in progress**:
 - Predictive models for various applications
-- AI-driven tools and solutions
+- Flashcard Study App with Pomodoro Timer and Machine Learning Recommendations
 
 📫 Feel free to connect with me or check out my repositories to see what I’m working on!
