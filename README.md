@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saajan!
 
-🎓 **Computer Engineering Student** with a passion for **Artificial Intelligence** and **programming**.
+🎓 **Computer Engineering Student** with a passion for **Artificial Intelligence** and **Web Development**.
 
 💻 Currently working on **machine learning** and **electronics** projects, combining technology and innovation to create practical and creative solutions.
 
