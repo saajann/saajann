@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Saajan/h1>
+<h1 align="center">Hi 👋 I'm Saajan </h1>
 
 🎓 **Computer Engineering Student** with a passion for **Artificial Intelligence** and **Web Development**.
 
