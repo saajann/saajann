@@ -5,7 +5,7 @@
 💻 Currently working on **machine learning** and **electronics** projects, combining technology and innovation to create practical and creative solutions.
 
 🚀 **Projects in progress**:
-- 🤖 Exploring Machine Learning
+- 🤖 Exploring Machine Learning and Data Science
 - 💻 Flashcard Study App with Pomodoro Timer and Machine Learning Recommendations
 
 📫 Feel free to connect with me or check out my repositories to see what I’m working on!
