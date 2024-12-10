@@ -8,6 +8,8 @@
 - 🤖 Exploring Machine Learning and Data Science
 - 💻 Flashcard Study App with Pomodoro Timer and Machine Learning Recommendations
 
+🌟 Actively contributing to **open source projects**, collaborating with developers worldwide to create impactful tools and resources.
+
 📫 Feel free to connect with me or check out my repositories to see what I’m working on!
 
 Check out my [coding portfolio!](https://saajann.github.io/portfolio)
