@@ -28,10 +28,13 @@ Check out my [coding portfolio!](https://saajann.github.io/portfolio)
 ![PHP](https://img.shields.io/badge/php-%2377A9B7.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Libraries/Frameworks:
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%230A1D37.svg?style=for-the-badge&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/seaborn-%23023C4B.svg?style=for-the-badge&logo=seaborn&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 ### Developer Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
