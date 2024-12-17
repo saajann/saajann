@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Saajan </h1>
 
-🎓 **Computer Engineering Student** with a passion for **Artificial Intelligence** and **Web Development**.
+🎓 **Computer Engineering Student** with a passion for **Artificial Intelligence**.
 
 💻 Currently working on **machine learning** and **electronics** projects, combining technology and innovation to create practical and creative solutions.
 
