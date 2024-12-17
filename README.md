@@ -6,7 +6,7 @@
 
 🚀 **Projects in progress**:
 - 🤖 Exploring Machine Learning and Data Science
-- 💻 Flashcard Study App with Pomodoro Timer and Machine Learning Recommendations
+- 💻 Flashcard Study App
 
 🌟 Actively contributing to **open source projects**, collaborating with developers worldwide to create impactful tools and resources.
 
