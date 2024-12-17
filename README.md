@@ -2,7 +2,7 @@
 
 🎓 **Computer Engineering Student** with a passion for **Artificial Intelligence**.
 
-💻 Currently working on **machine learning** and **electronics** projects, combining technology and innovation to create practical and creative solutions.
+💻 Currently working on **Machine Learning** and **Electronics** projects, combining technology and innovation to create practical and creative solutions.
 
 🚀 **Projects in progress**:
 - 🤖 Exploring Machine Learning and Data Science
