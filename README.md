@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋 I'm Saajan </h1>
 
-🎓 **Computer Engineering Student** with a passion for **Artificial Intelligence**.
+🎓 **Computer Engineering Student** passionate about **AI**.
 
-💻 Currently working on **Machine Learning** and **Electronics** projects, combining technology and innovation to create practical and creative solutions.
+💻 Working on **Machine Learning** and **Electronics** projects.
 
-🚀 **Projects in progress**:
-- 🤖 Exploring Machine Learning and Data Science
-- 💻 Flashcard Study App
+🌟 Contributing to **open source** and collaborating globally.
 
-🌟 Actively contributing to **open source projects**, collaborating with developers worldwide to create impactful tools and resources.
-
-📫 Feel free to connect with me or check out my repositories to see what I’m working on!
-
-Check out my [coding portfolio!](https://saajann.github.io/portfolio)
+📫 Explore my work on [my portfolio](https://saajann.github.io/portfolio)!
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saajan-saini/)
