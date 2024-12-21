@@ -11,7 +11,7 @@
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saajan-saini/)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
