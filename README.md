@@ -2,9 +2,9 @@
 
 🎓 **Computer Engineering Student** passionate about **AI**.
 
-💻 I'm working on **Machine Learning** and electronics projects. I prefer practical projects that allow me to learn and improve, always aiming to apply what I study to real-world situations.
+💻 I'm currently studying **Data Science** on my own, documenting my entire learning journey on [GitHub](https://github.com/saajann/data-science). I'm working on **Machine Learning** and electronics projects, always focusing on practical applications that help me grow.
 
-🌍 I enjoy contributing to open source projects and collaborating with other developers to grow together.
+🌍 I enjoy contributing to open source projects and collaborating with other developers to expand my knowledge and skills.
 
 📫 Check out my projects on [my portfolio](https://saajann.github.io/portfolio)!
 
