@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋 I'm Saajan </h1>
+<h1>Hi I'm Saajan 👋</h1>
 
 🎓 **Computer Engineering Student** passionate about **AI**.
 
-💻 Working on **Machine Learning** and **Electronics** projects.
+💻 I'm working on **Machine Learning** and electronics projects. I prefer practical projects that allow me to learn and improve, always aiming to apply what I study to real-world situations.
 
-🌟 Contributing to **open source** and collaborating globally.
+🌍 I enjoy contributing to open source projects and collaborating with other developers to grow together.
 
-📫 Explore my work on [my portfolio](https://saajann.github.io/portfolio)!
+📫 Check out my projects on [my portfolio](https://saajann.github.io/portfolio)!
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saajan-saini/)
