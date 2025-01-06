@@ -6,8 +6,6 @@
 
 🌍 I enjoy contributing to open source projects and collaborating with other developers to expand my knowledge and skills.
 
-📫 Check out my projects on [my portfolio](https://saajann.github.io/portfolio)!
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saajan-saini/)
 
