@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=saajann&label=Profile%20views&color=0e75b6&style=flat" alt="saajann" /> 
+</div>
+
 <h1>Hi I'm Saajan 👋</h1>
 
 🎓 **Computer Engineering Student** passionate about **AI**.
@@ -32,5 +36,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<img src="https://komarev.com/ghpvc/?username=saajann&color=blue" alt="Profile Views">
