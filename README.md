@@ -1,14 +1,12 @@
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=saajann&label=Profile%20views&color=0e75b6&style=flat" alt="saajann" /> 
+  <img src="https://komarev.com/ghpvc/?username=saajann&label=Profile%20views&color=0e75b6&style=flat" alt="saajann" /> 
 </div>
 
-<h1>Hi I'm Saajan 👋</h1>
+# Hi, I'm Saajan 👋  
 
-🎓 **Computer Engineering Student** passionate about **AI**.
+🎓 **Computer Engineering Student** interested in **AI**  
 
-💻 I'm currently studying **Data Science** on my own, documenting my entire learning journey on [GitHub](https://github.com/saajann/data-science). I'm working on **Machine Learning** and electronics projects, always focusing on practical applications that help me grow.
-
-🌍 I enjoy contributing to open source projects and collaborating with other developers to expand my knowledge and skills.
+💻 Learning **Data Science** through hands-on projects. Check them out on my profile!  
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saajan-saini/)
