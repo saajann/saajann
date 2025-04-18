@@ -20,6 +20,7 @@
 ![PHP](https://img.shields.io/badge/php-%2377A9B7.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Libraries/Frameworks:
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%230A1D37.svg?style=for-the-badge&logo=matplotlib&logoColor=white) 
